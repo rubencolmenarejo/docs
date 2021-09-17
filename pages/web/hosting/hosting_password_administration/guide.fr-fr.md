@@ -22,11 +22,14 @@ Il peut parfois être nécessaire, par exemple, suite à un cas de piratage, de 
 
 ## Prérequis
 
-- Être connecté à votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr)
+- Disposer d’un compte client et de services OVHcloud actifs.
+- Connaître l'identifiant et le mot de passe de votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) ou avoir accès à l'adresse e-mail de récupération de votre compte.
 
 > [!primary]
 >
 > Pour modifier les mots de passe de vos différents services OVHcloud, seuls les identifiants d'accès à votre [espace client](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) sont nécessaires.
+>
+> Une fois connecté à votre [espace](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr), vous pourrez modifier les mots de passe de l'ensemble de vos services sans connaître les anciens mots de passe.
 >
 
 ### Espace client OVHcloud
@@ -35,26 +38,30 @@ Pour modifier le mot de passe de votre [espace client OVHcloud](https://www.ovh.
 
 ### Accès FTP aux fichiers de votre hébergement
 
-Pour modifier le mot de passe d'accès via le protocole FTP ( **F** ile  **T** ansfert  **P** rotocol) à l'espace de stockage de votre hébergement, suivez les instructions de ce [guide](https://docs.ovh.com/fr/hosting/modifier-mot-de-passe-utilisateur-ftp/).
+Pour modifier le mot de passe [d'accès FTP à l'espace de stockage de votre hébergement](https://docs.ovh.com/fr/hosting/connexion-espace-stockage-ftp-hebergement-web/), suivez les instructions de ce [guide](https://docs.ovh.com/fr/hosting/modifier-mot-de-passe-utilisateur-ftp/).
 
-Si vous souhaitez retrouver le mot de passe actuel, consultez les e-mail émanant de nos services.
-
-Suite à l'installation de votre offre d'hébergement, un e-mail vous sera envoyé. Celui-ci comprend l'identifiant FTP (login) et le mot de passe associé.
-
-Vous pouvez retrouver cet e-mail à tout moment depuis votre espace client dans la section "Assistance" puis "historique des e-mails".
-
-![hosting](images/2849.png){.thumbnail}
-
-Tous les e-mails transmis par OVH sont stockés sans limite de durée à ce niveau. Si vous avez personnalisé votre mot de passe, vous seul le connaissez. Vous ne pourrez pas le retrouver depuis votre espace client car nous ne stockons pas cette information dans le manager. Il sera alors nécessaire de le modifier depuis votre espace client. La procédure est décrite dans ce [guide](https://docs.ovh.com/fr/hosting/modifier-mot-de-passe-utilisateur-ftp/){.ref}.
+> [!primary]
+>
+> Si vous souhaitez retrouver le mot de passe FTP actuel, consultez les e-mails émanant de nos services. Lors de l'installation de votre [offre d'hébergement](https://www.ovh.com/fr/hebergement-web/), un message contenant l'identifiant FTP (login) et le mot de passe associé vous a en effet été envoyé.
+>
+> Vous pouvez retrouver cet e-mail à tout moment en haut à droite de votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) sur votre nom puis sur `E-mails de service`{.action}.
+>
+>![](images/.png){.thumbnail}
+>
+> Si vous avez par contre modifié le mot de passe indiqué dans ce message, vous devrez le modifier en suivant ces [instructions](https://docs.ovh.com/fr/hosting/modifier-mot-de-passe-utilisateur-ftp/).
+>
 
 ### Base de données
 
-> [!alert]
->
-> L'offre d'hébergement gratuit Start10M ne comprend pas de base de données.
-> 
+#### Offre StartSQL
 
-La base de données n'est pas crée automatiquement suite à la commande d'un hébergement mutualisé. Vous devez créer celle-ci une fois votre offre installée. La procédure de création d'une base de données est décrite dans ce [guide](https://docs.ovh.com/fr/hosting/creer-base-de-donnees/){.ref}. Le mot de passe est personnalisé dès la création et celui-ci ne sera pas mentionné dans le mail de confirmation transmis suite à la création.
+Pour modifier le mot de passe de votre [base de données StartSQL](https://www.ovh.com/fr/hebergement-web/options-sql.xml) (il s'agit des bases de données livrées avec l'ensemble de nos [offres d'hébergement mutulisées](https://www.ovh.com/fr/hebergement-web/), à l'exception des offres gratuites [Start10M](https://docs.ovh.com/fr/hosting/activer-start10m/)), suivez les instructions de ce [guide](https://docs.ovh.com/fr/hosting/modifier-mot-de-passe-base-de-donnees/).
+
+#### Serveur SQL privé
+
+Pour modifier le mot de passe d'une base de données sur votre [serveur SQL privé](https://docs.ovh.com/fr/hosting/premiers-pas-avec-sql-prive/), rendez vous dans l'onglet Bases de données situé sur la gauche de votre écran puis choisissez l'offre concernée. Cliquez ensuite sur l'onglet `Utilisateurs et droits`{.action} puis sur le bouton `...`{.action} concerné et `Changer le mot de passe`{.action}.
+
+La base de données n'est pas créée automatiquement suite à la commande d'un hébergement mutualisé. Vous devez créer celle-ci une fois votre offre installée. La procédure de création d'une base de données est décrite dans ce [guide](https://docs.ovh.com/fr/hosting/creer-base-de-donnees/){.ref}. Le mot de passe est personnalisé dès la création et celui-ci ne sera pas mentionné dans le mail de confirmation transmis suite à la création.
 
 Si vous oubliiez le mot de passe de votre base de données :
 
