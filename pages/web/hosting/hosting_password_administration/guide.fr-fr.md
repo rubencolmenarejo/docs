@@ -32,9 +32,28 @@ Il peut parfois être nécessaire, par exemple, suite à un cas de piratage, de 
 > Une fois connecté à votre [espace](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr), vous pourrez modifier les mots de passe de l'ensemble de vos services sans connaître les anciens mots de passe.
 >
 
-### Espace client OVHcloud
+## En pratique
 
-Pour modifier le mot de passe de votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr), suivez les instructions de ce [guide](https://docs.ovh.com/fr/customer/gerer-son-mot-de-passe/).
+### Bonnes pratiques
+
+Afin de sécuriser vos services OVHcloud et les données qu'ils contiennent, nous vous recommandons d'adopter les pratiques suivantes : 
+
+#### Générer un mot de passe complexe
+
+Vos mots de passe devront respecter les exigences de complexité indiquées : 
+
+- Pour le [mot de passe FTP](), il devra être compris entre 8 et 30 caractères alphanumériques, donc au moins un chiffre, une majuscule et une minuscule.
+- Pour le [mot de passe de votre base de données](),
+- Pour le [mot de passe de votre espace client](),
+- Pour le [mot de passe de votre adresse e-mail](), 
+
+
+
+### Modifier vos mots de passe OVHcloud
+
+### Espace client
+
+Pour modifier le mot de passe de votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr), suivez les instructions de ce [guide](https://docs.ovh.com/fr/customer/gerer-son-mot-de-passe/#modifier-votre-mot-de-passe).
 
 ### Accès FTP aux fichiers de votre hébergement
 
