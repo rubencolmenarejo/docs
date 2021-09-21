@@ -152,7 +152,7 @@ La méthode pour changer le mot de passe de l'interface administrateur de votre 
 
 ##### Cas n°1 : installation d'un module 1 clic en mode simple
 
-Si votre site a été créé via la fonctionnalité [Module 1 clic](../modules-en-1-clic/) en utilisant , vous pourrez modifier son mot de passe administrateur via votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr):
+Si vous avez créé votre [Module 1 clic](../modules-en-1-clic/) snns utiliser le `Mode avancé`{.action}, vous pourrez modifier son mot de passe administrateur via votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) :
 
 - Dans la partie `Web cloud`{.action}, cliquez sur `Hébergements`{.action} puis sur l'hébergement concerné ;
 - Cliquez sur l'onglet `Module en 1 clic`{.action} puis sur le bouton `...`{.action} concerné et sur `Modifier le mot de passe`{.action}.
@@ -163,18 +163,18 @@ Vous pouvez également utiliser le lien `Mot de passe oublié` présent sur la p
 
 ![](images/.png){.thumbnail}
 
-##### Cas n°2 : installation du module 1 clic en mode avancé
+##### Cas n°2 : installation d'un module 1 clic en mode avancé
 
-Si vous avez créé votre site en utilisant la fonctionnalité [Module 1 clic](../modules-en-1-clic/) en utilisant le `Mode avancé`{.action}, vous pourrez modifier son mot de passe administrateur via votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr):
+Si vous avez créé votre [Module 1 clic](../modules-en-1-clic/) en utilisant le `Mode avancé`{.action}, vous pourrez modifier son mot de passe administrateur via votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) :
 
 - Dans la partie `Web cloud`{.action}, cliquez sur `Hébergements`{.action} puis sur l'hébergement concerné ;
 - Cliquez sur l'onglet `Module en 1 clic`{.action} puis sur le bouton `...`{.action} concerné et sur `Modifier le mot de passe`{.action}.
 
 Vous pouvez également utiliser le lien `Mot de passe oublié` présent sur la page de connexion à l'interface administrateur de votre site.
 
-##### Cas n°3 : installation manuelle du CMS
+##### Cas n°3 : installation manuelle d'un CMS
 
-Si vous avez créé votre site en [installant manuellement un logiciel de gestion de contenu (CMS)](../mutualise-installer-manuellement-mon-cms/), utilisez le lien `Mot de passe oublié` présent sur la page de connexion à l'interface administrateur de votre site.
+Si vous avez créé votre site en [installant manuellement un logiciel de gestion de contenu (CMS)](../mutualise-installer-manuellement-mon-cms/) comme Wordpress, utilisez le lien `Mot de passe oublié` présent sur la page de connexion à l'interface administrateur de votre site.
 
 Si ce dernier ne fonctionne pas ou que vous souhaitez retrouver votre mot de passe administrateur actuel sans le modifier, contactez la [communauté d'utilisateurs](https://community.ovh.com) ou les [partenaires OVHcloud](https://partner.ovhcloud.com/fr/). Nous ne serons pas en mesure de vous apporter une assistance sur ce sujet. 
 
