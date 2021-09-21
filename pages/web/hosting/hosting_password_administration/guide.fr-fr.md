@@ -106,7 +106,7 @@ Pour modifier le mot de passe de votre [espace client OVHcloud](https://www.ovh.
 
 #### Accès à l'espace de stockage de fichiers
 
-##### Accès en FTP
+##### **Accès en FTP**
 
 Pour modifier le mot de passe d'accès FTP à l'[espace de stockage de votre hébergement](../connexion-espace-stockage-ftp-hebergement-web/), suivez les instructions de ce [guide](../modifier-mot-de-passe-utilisateur-ftp/).
 
@@ -121,7 +121,7 @@ Pour modifier le mot de passe d'accès FTP à l'[espace de stockage de votre hé
 > Si vous avez par contre modifié le mot de passe indiqué dans ce message, vous devrez le modifier en suivant ces [instructions](../modifier-mot-de-passe-utilisateur-ftp/).
 >
 
-##### Accès en SSH
+##### **Accès en SSH**
 
 La connexion se fait avec les mêmes identifiants et mots de passe que pour la [connexion FTP](../connexion-espace-stockage-ftp-hebergement-web/). Pour modifier votre mot de passe SSH, suivez donc également les instructions de ce [guide](../modifier-mot-de-passe-utilisateur-ftp/).
 
@@ -139,7 +139,7 @@ La connexion se fait avec les mêmes identifiants et mots de passe que pour la [
 > Pour toute question à ce sujet, consultez ce [guide](../modifier-mot-de-passe-base-de-donnees/).
 >
 
-##### Offre StartSQL
+##### **Offre StartSQL**
 
 Pour modifier le mot de passe de votre [base de données StartSQL](https://www.ovh.com/fr/hebergement-web/options-sql.xml), suivez les instructions de ce [guide](../modifier-mot-de-passe-base-de-donnees/).
 
@@ -150,7 +150,7 @@ Pour modifier le mot de passe de votre [base de données StartSQL](https://www.o
 > L'ensemble de nos [offres d'hébergement mutulisées](https://www.ovh.com/fr/hebergement-web/), à l'exception des offres gratuites [Start10M](../activer-start10m/)) comportent ce type de bases de données.
 >
 
-##### Serveur SQL privé
+##### **Serveur SQL privé**
 
 Pour modifier le mot de passe d'une base de données sur votre [serveur SQL privé](../premiers-pas-avec-sql-prive/), rendez vous dans l'onglet `Bases de données`{.action} situé sur la gauche de votre écran et choisissez le serveur concerné.<br>
 Cliquez ensuite sur l'onglet `Utilisateurs et droits`{.action} puis sur le bouton `...`{.action} et `Changer le mot de passe`{.action}.
@@ -173,7 +173,7 @@ Pour modifier le mot de passe de votre [adresse e-mail MX Plan](../../emails/), 
 
 La méthode pour changer le mot de passe de l'interface administrateur de votre site dépend de son mode d'installation.
 
-##### Cas n°1 : installation avec un Module en 1 clic 
+##### **Cas n°1 : installation avec un Module en 1 clic**
 
 Si vous avez créé votre site avec la fonctionnalité [Module en 1 clic](../modules-en-1-clic/), modifiez son mot de passe administrateur via votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) :
 
@@ -186,13 +186,13 @@ Vous pouvez également utiliser le lien `Mot de passe oublié` présent sur la p
 
 ![lost_your_password](images/lost_your_password.png){.thumbnail}
 
-##### Cas n°2 : installation manuelle d'un CMS
+##### **Cas n°2 : installation manuelle d'un CMS**
 
 Si vous avez créé votre site en [installant manuellement un logiciel de gestion de contenu (CMS)](../mutualise-installer-manuellement-mon-cms/) (comme Wordpress par exemple), utilisez également le lien `Mot de passe oublié` présent sur la page de connexion à l'interface administrateur de votre site.
 
 Si ce dernier ne fonctionne pas ou que vous souhaitez retrouver votre mot de passe administrateur actuel sans le modifier, contactez la [communauté d'utilisateurs](https://community.ovh.com) ou les [partenaires OVHcloud](https://partner.ovhcloud.com/fr/). Nous ne serons pas en mesure de vous apporter une assistance sur ce sujet. 
 
-##### Cas n°4 : installation sans CMS
+##### **Cas n°4 : installation sans CMS**
 
 Si votre site a été créé à partir d'un langage de programmation (PHP, HTML, etc.) ou d'un framework (Symfony, Laravel, etc.) et que vous ne parvenez pas à modifier ou à retrouver son mot de passe administrateur, contactez la [communauté d'utilisateurs](https://community.ovh.com) ou les
 [partenaires OVHcloud](https://partner.ovhcloud.com/fr/). Nous ne serons pas en mesure de vous apporter une assistance sur ce sujet.
