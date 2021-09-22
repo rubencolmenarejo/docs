@@ -192,7 +192,7 @@ Si vous avez créé votre site en [installant manuellement un logiciel de gestio
 
 Si ce dernier ne fonctionne pas ou que vous souhaitez retrouver votre mot de passe administrateur actuel sans le modifier, contactez la [communauté d'utilisateurs](https://community.ovh.com) ou les [partenaires OVHcloud](https://partner.ovhcloud.com/fr/). Nous ne serons pas en mesure de vous apporter une assistance sur ce sujet. 
 
-##### **Cas n°4 : installation sans CMS**
+##### **Cas n°3 : installation sans CMS**
 
 Si votre site a été créé à partir d'un langage de programmation (PHP, HTML, etc.) ou d'un framework (Symfony, Laravel, etc.) et que vous ne parvenez pas à modifier ou à retrouver son mot de passe administrateur, contactez la [communauté d'utilisateurs](https://community.ovh.com) ou les
 [partenaires OVHcloud](https://partner.ovhcloud.com/fr/). Nous ne serons pas en mesure de vous apporter une assistance sur ce sujet.
