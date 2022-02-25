@@ -80,7 +80,7 @@ Después de haber creado la máquina virtual y cuando esta esté aún apagada:
 
 ![navegar hasta el periférico de red](images/proxmox_01.png){.thumbnail}
 
-A continuación, añada la dirección MAC que ha creado anteriormente.
+A continuación, seleccione como modelo de interfaz de red "Intel E1000" y añada la dirección MAC que ha creado anteriormente.
 
 ![abrir un dispositivo de red](images/proxmox_02.png){.thumbnail}
 
